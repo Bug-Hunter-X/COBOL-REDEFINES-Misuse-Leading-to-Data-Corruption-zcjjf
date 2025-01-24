@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in COBOL related to the use of the REDEFINES clause. The bug arises from a misunderstanding of how data is stored and accessed when multiple data structures share the same memory location. The solution provides a corrected version with better data handling and clear comments to avoid the issue.
